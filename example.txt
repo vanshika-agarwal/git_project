@@ -1,8 +1,14 @@
 Fix 1 commits
 <<<<<<< HEAD
 Fix 2 2nd commit
+<<<<<<< HEAD
 =======
 Fix 1 - Commit 1
 Fix 1 - Commit 2
 Fix 1 - Commit 3
 >>>>>>> fix-1
+=======
+Fix 2 - Commit 1
+Fix 2 - Commit 2
+Fix 2 - Commit 3
+>>>>>>> fix-2
